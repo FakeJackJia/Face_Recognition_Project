@@ -38,4 +38,3 @@ This project develops a face recognition system integrated into a **WeChat Mini-
 - All datasets are preprocessed and saved in the TFRecord file
 - All models are saved in pb file
 - Flask is used to perform backend operations
-- WeChat Mini-Program is built using JS and CSS
